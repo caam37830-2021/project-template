@@ -2,8 +2,6 @@
 
 In this project, you will find the questions in [answers.ipynb](answers.ipynb).  This is convenient for displaying math equations. You can use [answers.ipynb](answers.ipynb) for written answers and running simulations/displaying plots.
 
-Please complete the class definition in [`sampler.py`](sampler.py). And use the sampler class to generate random samples for the overdamped Langevin process.
-
 You can run
 ```
 conda install --file requirements.txt
