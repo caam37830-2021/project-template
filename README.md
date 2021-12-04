@@ -21,11 +21,15 @@ The following rubric will be used for grading.
 |:-:|:-:|:-:|:-:|:-:|
 | Problem 0 |  |   |  | /30 |
 | Part A |    | /12 | /3 | /15 |
-| Part B |    | /13 | /3 | /15 |
-| Problem 1 |  |   |  | /30 |
-| Part A |    | /5 | /0 | /5 |
-| Part B |    | /20 | /5 | /25 |
-| Problem 2 |  | /32 | /8 | /40 |
+| Part B |    | /12 | /3 | /15 |
+| Problem 1 |  |   |  | /20 |
+| Part A |    | /8 | /2 | /10 |
+| Part B |    | /8 | /2 | /10 |
+| Problem 2 |  |  |  | /30 |
+| Part A |    | /9 | /2 | /11 |
+| Part B |    | /4 |  | /4 |
+| Part C |    | /13 | /2 | /15 |
+| Problem 3 |  | /17 | /3 | /20 |
 
 
 Correctness will be based on code (i.e. did you provide was was aksed for) and the content of [`answers.ipynb`](answers.ipynb).
